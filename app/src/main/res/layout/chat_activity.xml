@@ -8,8 +8,9 @@
     android:background="#fee"
     tools:context=".MainActivity">
 
+
     <TextView
-        android:text="暇登録"
+        android:text="チャット"
         android:textSize="30sp"
         android:layout_margin="10dp"
         android:layout_width="wrap_content"
