@@ -32,6 +32,13 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(getApplication(), Chat.class);
             startActivity(intent);
         });
+        //プロフィールボタンを押すと画面遷移する定義
+        Button sendButton3 = findViewById(R.id.profile_button);
+        // lambda式
+        sendButton3.setOnClickListener(v -> {
+            Intent intent = new Intent(getApplication(), HimaTouroku.class);
+            startActivity(intent);
+        });
     }
 
     CalendarView.OnDateChangeListener listener = new CalendarView.OnDateChangeListener() {

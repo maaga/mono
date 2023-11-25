@@ -28,6 +28,9 @@
         <activity
             android:name=".Chat">
         </activity>
+        <activity
+            android:name=".Profile">
+        </activity>
     </application>
 
 </manifest>
