@@ -1,4 +1,4 @@
-package com.example.monoapp;
+package com.example.Hows;
 
 import android.os.Bundle;
 import android.widget.Button;

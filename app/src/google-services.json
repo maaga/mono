@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014963662800",
+    "project_id": "hows-app-90370",
+    "storage_bucket": "hows-app-90370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014963662800:android:1c3e57613455c376a3d3d5",
+        "android_client_info": {
+          "package_name": "com.example.Hows"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbWN3g9GEcFeLaLxqPYM7dEJUlpQ518KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

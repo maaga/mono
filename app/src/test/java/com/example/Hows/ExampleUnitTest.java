@@ -1,4 +1,4 @@
-package com.example.monoapp;
+package com.example.Hows;
 
 import org.junit.Test;
 

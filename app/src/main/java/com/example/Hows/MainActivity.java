@@ -1,4 +1,4 @@
-package com.example.monoapp;
+package com.example.Hows;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         Button sendButton3 = findViewById(R.id.profile_button);
         // lambda式
         sendButton3.setOnClickListener(v -> {
-            Intent intent = new Intent(getApplication(), HimaTouroku.class);
+            Intent intent = new Intent(getApplication(), Profile.class);
             startActivity(intent);
         });
     }
