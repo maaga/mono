@@ -1,4 +1,4 @@
-package com.example.monoapp;
+package com.example.Hows;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
